@@ -1,11 +1,10 @@
-Aqui está a tradução completa e formatada em inglês do seu texto, mantendo a mesma estrutura clara e organizada para o `README.md`:
 
-````markdown
 # AI Knowledge Graph System
 
 This project integrates **Artificial Intelligence** with a **graph database**, providing a robust architecture for knowledge analysis, association, and querying.
 
 ---
+
 
 ## Technologies Used
 
@@ -31,6 +30,15 @@ To **prevent hallucinations** from language models, the **RAG** technique was im
 ---
 
 ## Graph Database
+---
+
+![Neo4J Image](img/Neo4j.png)
+
+Neo4j Running on the localhost
+
+---
+
+
 
 * Database: **Neo4j**  
 * Query Language: **Cypher**  
@@ -65,6 +73,3 @@ response = chain.run("Which entities are connected to concept X?")
 * It can be easily configured to run in **Docker** for deployment across any infrastructure.
 
 ---
-
-Would you like me to also format this `README.md` with **installation and execution steps (step-by-step guide)**, or do you prefer keeping it only as a **high-level system overview**?
-

@@ -6,7 +6,11 @@ This project was developed to teach basic concepts related to building agents us
 
 The focus is on developing a Python-based assistant capable of answering questions about movies, stored as a Knowledge Graph in [neo4j](https://neo4j.com).
 
+---
 
+![Neo4J Image](img/rag-chat.png)
+
+---
 
 ## How to Use This Project
 
