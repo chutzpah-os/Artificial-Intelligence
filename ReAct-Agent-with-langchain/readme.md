@@ -114,6 +114,13 @@ LangChain provides tools to improve customization and accuracy, allowing develop
 * Create new prompts or refine existing ones.
 * Allow models to access fresh data without retraining.
 
+
+---
+
+## Note
+
+I learned and developed this project during a class at **DIO**.
+
 ---
 
 ## Contact
