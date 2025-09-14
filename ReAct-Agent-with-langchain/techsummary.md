@@ -32,7 +32,7 @@ To **prevent hallucinations** from language models, the **RAG** technique was im
 ## Graph Database
 ---
 
-![Neo4J Image](img/Neo4j.png)
+![Neo4J Image](assets/Neo4j.png)
 
 Neo4j Running on the localhost
 

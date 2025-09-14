@@ -8,7 +8,7 @@ The focus is on developing a Python-based assistant capable of answering questio
 
 ---
 
-![Neo4J Image](img/rag-chat.png)
+![Neo4J Image](assets/rag-chat.png)
 
 ---
 
